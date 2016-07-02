@@ -5,7 +5,7 @@
 #include "library/playlisttablemodel.h"
 #include "widget/wtracktableview.h"
 #include "util/assert.h"
-#include "util/time.h"
+#include "util/duration.h"
 
 DlgAutoDJ::DlgAutoDJ(QWidget* parent,
                      Library* pLibrary,
@@ -147,7 +147,7 @@ void DlgAutoDJ::updateSelectionInfo() {
         return;
     }
     
-    int duration = 0;
+    double duration = 0.0;
     for (const QModelIndex& mIndex : m_selectedRows) {
         TrackPointer pTrack = m_pAutoDJTableModel->getTrack(mIndex);
         if (pTrack) {
