@@ -156,7 +156,7 @@ void DlgAutoDJ::updateSelectionInfo() {
     }
 
     QString label;
-    label.append(Time::formatSeconds(duration));
+    label.append(mixxx::Duration::formatSeconds(duration));
     label.append(QString(" (%1)").arg(m_selectedRows.size()));
     labelSelectionInfo->setText(label);
     labelSelectionInfo->setEnabled(true);
