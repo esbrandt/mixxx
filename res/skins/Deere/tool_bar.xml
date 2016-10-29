@@ -281,11 +281,11 @@
             <SetVariable name="MaximumSize"><Variable name="SquareButtonMaximumSize"/></SetVariable>
             <SetVariable name="SizePolicy"><Variable name="SquareButtonSizePolicy"/></SetVariable>
             <SetVariable name="state_0_text"></SetVariable>
-            <SetVariable name="state_0_pressed">icon/ic_menu_48px.svg</SetVariable>
-            <SetVariable name="state_0_unpressed">icon/ic_menu_48px.svg</SetVariable>
+            <SetVariable name="state_0_pressed">icon/ic_settings_48px.svg</SetVariable>
+            <SetVariable name="state_0_unpressed">icon/ic_settings_48px.svg</SetVariable>
             <SetVariable name="state_1_text"></SetVariable>
-            <SetVariable name="state_1_pressed">icon/ic_menu_48px.svg</SetVariable>
-            <SetVariable name="state_1_unpressed">icon/ic_menu_48px.svg</SetVariable>
+            <SetVariable name="state_1_pressed">icon/ic_settings_48px.svg</SetVariable>
+            <SetVariable name="state_1_unpressed">icon/ic_settings_48px.svg</SetVariable>
             <SetVariable name="left_connection_control">[Deere],show_skin_settings</SetVariable>
           </Template>
         </Children>
