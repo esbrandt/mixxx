@@ -104,7 +104,6 @@
 
                           <Overview>
                             <TooltipId>waveform_overview</TooltipId>
-                            <Style></Style>
                             <Group>[PreviewDeck1]</Group>
                             <Size>me,30f</Size>
                             <BgColor></BgColor>
