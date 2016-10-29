@@ -55,13 +55,15 @@
             <NumberStates>2</NumberStates>
             <State>
               <Number>0</Number>
-              <Text>&#9744; Show Mixer</Text>
+              <Text>       Show Mixer</Text>
               <Alignment>left</Alignment>
             </State>
             <State>
               <Number>1</Number>
-              <Text>&#9745; Show Mixer</Text>
+              <Text>       Show Mixer</Text>
               <Alignment>left</Alignment>
+              <Pressed scalemode="STRETCH_ASPECT">icon/ic_check_48px.svg</Pressed>
+              <Unpressed scalemode="STRETCH_ASPECT">icon/ic_check_48px.svg</Unpressed>
             </State>
             <Connection>
               <ConfigKey persist="true">[Master],hide_mixer</ConfigKey>
@@ -76,13 +78,15 @@
             <NumberStates>2</NumberStates>
             <State>
               <Number>0</Number>
-              <Text>&#9744; Show Crossfader</Text>
+              <Text>       Show Crossfader</Text>
               <Alignment>left</Alignment>
             </State>
             <State>
               <Number>1</Number>
-              <Text>&#9745; Show Crossfader</Text>
+              <Text>       Show Crossfader</Text>
               <Alignment>left</Alignment>
+              <Pressed scalemode="STRETCH_ASPECT">icon/ic_check_48px.svg</Pressed>
+              <Unpressed scalemode="STRETCH_ASPECT">icon/ic_check_48px.svg</Unpressed>
             </State>
             <Connection>
               <ConfigKey>[Deere],hide_crossfader</ConfigKey>
@@ -98,13 +102,15 @@
             <NumberStates>2</NumberStates>
             <State>
               <Number>0</Number>
-              <Text>&#9744; Show Microphone</Text>
+              <Text>       Show Microphone</Text>
               <Alignment>left</Alignment>
             </State>
             <State>
               <Number>1</Number>
-              <Text>&#9745; Show Microphone</Text>
+              <Text>       Show Microphone</Text>
               <Alignment>left</Alignment>
+              <Pressed scalemode="STRETCH">icon/ic_check_48px.svg</Pressed>
+              <Unpressed scalemode="STRETCH">icon/ic_check_48px.svg</Unpressed>
             </State>
             <Connection>
               <ConfigKey persist="true">[Microphone],show_microphone</ConfigKey>
@@ -117,13 +123,15 @@
             <NumberStates>2</NumberStates>
             <State>
               <Number>0</Number>
-              <Text>&#9744; Show Preview Deck</Text>
+              <Text>       Show Preview Deck</Text>
               <Alignment>left</Alignment>
             </State>
             <State>
               <Number>1</Number>
-              <Text>&#9745; Show Preview Deck</Text>
+              <Text>       Show Preview Deck</Text>
               <Alignment>left</Alignment>
+              <Pressed scalemode="STRETCH_ASPECT">icon/ic_check_48px.svg</Pressed>
+              <Unpressed scalemode="STRETCH_ASPECT">icon/ic_check_48px.svg</Unpressed>
             </State>
             <Connection>
               <ConfigKey persist="true">[PreviewDeck],show_previewdeck</ConfigKey>
@@ -131,18 +139,21 @@
           </PushButton>
 
           <PushButton>
+            <ObjectName>toggle_4decks</ObjectName>
             <TooltipId>toggle_4decks</TooltipId>
             <Size>80me,20f</Size>
             <NumberStates>2</NumberStates>
             <State>
               <Number>0</Number>
-              <Text>&#9744; Show 4 Decks</Text>
+              <Text>       Show 4 Decks</Text>
               <Alignment>left</Alignment>
             </State>
             <State>
               <Number>1</Number>
-              <Text>&#9745; Show 4 Decks</Text>
+              <Text>       Show 4 Decks</Text>
               <Alignment>left</Alignment>
+              <Pressed scalemode="STRETCH_ASPECT">icon/ic_check_48px.svg</Pressed>
+              <Unpressed scalemode="STRETCH_ASPECT">icon/ic_check_48px.svg</Unpressed>
             </State>
             <Connection>
               <ConfigKey persist="true">[Master],show_4decks</ConfigKey>
@@ -156,13 +167,15 @@
             <NumberStates>2</NumberStates>
             <State>
               <Number>0</Number>
-              <Text>&#9744; Show Cover Art in Library</Text>
+              <Text>       Show Cover Art in Library</Text>
               <Alignment>left</Alignment>
             </State>
             <State>
               <Number>1</Number>
-              <Text>&#9745; Show Cover Art in Library</Text>
+              <Text>       Show Cover Art in Library</Text>
               <Alignment>left</Alignment>
+              <Pressed scalemode="STRETCH_ASPECT">icon/ic_check_48px.svg</Pressed>
+              <Unpressed scalemode="STRETCH_ASPECT">icon/ic_check_48px.svg</Unpressed>
             </State>
             <Connection>
               <ConfigKey persist="true">[Library],show_coverart</ConfigKey>
@@ -175,13 +188,15 @@
             <NumberStates>2</NumberStates>
             <State>
               <Number>0</Number>
-              <Text>&#9744; Maximize Library</Text>
+              <Text>       Maximize Library</Text>
               <Alignment>left</Alignment>
             </State>
             <State>
               <Number>1</Number>
-              <Text>&#9745; Maximize Library</Text>
+              <Text>       Maximize Library</Text>
               <Alignment>left</Alignment>
+              <Pressed scalemode="STRETCH_ASPECT">icon/ic_check_48px.svg</Pressed>
+              <Unpressed scalemode="STRETCH_ASPECT">icon/ic_check_48px.svg</Unpressed>
             </State>
             <Connection>
               <ConfigKey persist="true">[Master],maximize_library</ConfigKey>
@@ -207,18 +222,22 @@
             <NumberStates>3</NumberStates>
             <State>
               <Number>0</Number>
-              <Text>&#9744; Show Cover Art</Text>
+              <Text>       Show Cover Art</Text>
               <Alignment>left</Alignment>
             </State>
             <State>
               <Number>1</Number>
-              <Text>&#9745; Show Cover Art &#9679; &#9675;</Text>
+              <Text>       Show Cover Art &#9679; &#9675;</Text>
               <Alignment>left</Alignment>
+              <Pressed scalemode="STRETCH_ASPECT">icon/ic_check_48px.svg</Pressed>
+              <Unpressed scalemode="STRETCH_ASPECT">icon/ic_check_48px.svg</Unpressed>
             </State>
             <State>
               <Number>2</Number>
-              <Text>&#9745; Show Cover Art &#9675; &#9679;</Text>
+              <Text>       Show Cover Art &#9675; &#9679;</Text>
               <Alignment>left</Alignment>
+              <Pressed scalemode="STRETCH_ASPECT">icon/ic_check_48px.svg</Pressed>
+              <Unpressed scalemode="STRETCH_ASPECT">icon/ic_check_48px.svg</Unpressed>
             </State>
             <Connection>
               <ConfigKey persist="true">[Deere],show_coverart</ConfigKey>
@@ -230,13 +249,15 @@
             <NumberStates>2</NumberStates>
             <State>
               <Number>0</Number>
-              <Text>&#9744; Show Star Rating</Text>
+              <Text>       Show Star Rating</Text>
               <Alignment>left</Alignment>
             </State>
             <State>
               <Number>1</Number>
-              <Text>&#9745; Show Star Rating</Text>
+              <Text>       Show Star Rating</Text>
               <Alignment>left</Alignment>
+              <Pressed scalemode="STRETCH_ASPECT">icon/ic_check_48px.svg</Pressed>
+              <Unpressed scalemode="STRETCH_ASPECT">icon/ic_check_48px.svg</Unpressed>
             </State>
             <Connection>
               <ConfigKey persist="true">[Deere],show_starrating</ConfigKey>
@@ -248,13 +269,15 @@
             <NumberStates>2</NumberStates>
             <State>
               <Number>0</Number>
-              <Text>&#9744; Show More Hotcues</Text>
+              <Text>       Show More Hotcues</Text>
               <Alignment>left</Alignment>
             </State>
             <State>
               <Number>1</Number>
-              <Text>&#9745; Show More Hotcues</Text>
+              <Text>       Show More Hotcues</Text>
               <Alignment>left</Alignment>
+              <Pressed scalemode="STRETCH_ASPECT">icon/ic_check_48px.svg</Pressed>
+              <Unpressed scalemode="STRETCH_ASPECT">icon/ic_check_48px.svg</Unpressed>
             </State>
             <Connection>
               <ConfigKey persist="true">[Deere],show_more_hotcues</ConfigKey>
@@ -266,13 +289,15 @@
             <NumberStates>2</NumberStates>
             <State>
               <Number>0</Number>
-              <Text>&#9744; Conceal Artist/Track Info</Text>
+              <Text>       Conceal Artist/Track Info</Text>
               <Alignment>left</Alignment>
             </State>
             <State>
               <Number>1</Number>
-              <Text>&#9745; Conceal Artist/Track Info</Text>
+              <Text>       Conceal Artist/Track Info</Text>
               <Alignment>left</Alignment>
+              <Pressed scalemode="STRETCH_ASPECT">icon/ic_check_48px.svg</Pressed>
+              <Unpressed scalemode="STRETCH_ASPECT">icon/ic_check_48px.svg</Unpressed>
             </State>
             <Connection>
               <ConfigKey>[Deere],show_no_track_info</ConfigKey>
@@ -284,13 +309,15 @@
             <NumberStates>2</NumberStates>
             <State>
               <Number>0</Number>
-              <Text>&#9744; Conceal BPM Info</Text>
+              <Text>       Conceal BPM Info</Text>
               <Alignment>left</Alignment>
             </State>
             <State>
               <Number>1</Number>
-              <Text>&#9745; Conceal BPM Info</Text>
+              <Text>       Conceal BPM Info</Text>
               <Alignment>left</Alignment>
+              <Pressed scalemode="STRETCH_ASPECT">icon/ic_check_48px.svg</Pressed>
+              <Unpressed scalemode="STRETCH_ASPECT">icon/ic_check_48px.svg</Unpressed>
             </State>
             <Connection>
               <ConfigKey>[Deere],show_no_bpm_info</ConfigKey>
@@ -303,13 +330,15 @@
             <NumberStates>2</NumberStates>
             <State>
               <Number>0</Number>
-              <Text>&#9744; Show Stacked Waveforms</Text>
+              <Text>       Show Stacked Waveforms</Text>
               <Alignment>left</Alignment>
             </State>
             <State>
               <Number>1</Number>
-              <Text>&#9745; Show Stacked Waveforms</Text>
+              <Text>       Show Stacked Waveforms</Text>
               <Alignment>left</Alignment>
+              <Pressed scalemode="STRETCH_ASPECT">icon/ic_check_48px.svg</Pressed>
+              <Unpressed scalemode="STRETCH_ASPECT">icon/ic_check_48px.svg</Unpressed>
             </State>
             <Connection>
               <ConfigKey persist="true">[Deere],show_stacked_waveforms</ConfigKey>
@@ -321,13 +350,15 @@
             <NumberStates>2</NumberStates>
             <State>
               <Number>0</Number>
-              <Text>&#9744; Show Vinyl Control Options</Text>
+              <Text>       Show Vinyl Control Options</Text>
               <Alignment>left</Alignment>
             </State>
             <State>
               <Number>1</Number>
-              <Text>&#9745; Show Vinyl Control Options</Text>
+              <Text>       Show Vinyl Control Options</Text>
               <Alignment>left</Alignment>
+              <Pressed scalemode="STRETCH_ASPECT">icon/ic_check_48px.svg</Pressed>
+              <Unpressed scalemode="STRETCH_ASPECT">icon/ic_check_48px.svg</Unpressed>
             </State>
             <Connection>
               <ConfigKey persist="true">[VinylControl],show_vinylcontrol</ConfigKey>
@@ -353,13 +384,15 @@
             <NumberStates>2</NumberStates>
             <State>
               <Number>0</Number>
-              <Text>&#9744; Show Advanced Mode</Text>
+              <Text>       Show Advanced Mode</Text>
               <Alignment>left</Alignment>
             </State>
             <State>
               <Number>1</Number>
-              <Text>&#9745; Show Advanced Mode</Text>
+              <Text>       Show Advanced Mode</Text>
               <Alignment>left</Alignment>
+              <Pressed scalemode="STRETCH_ASPECT">icon/ic_check_48px.svg</Pressed>
+              <Unpressed scalemode="STRETCH_ASPECT">icon/ic_check_48px.svg</Unpressed>
             </State>
             <Connection>
               <ConfigKey persist="true">[Samplers],show_samplers</ConfigKey>
@@ -384,13 +417,15 @@
             <NumberStates>2</NumberStates>
             <State>
               <Number>0</Number>
-              <Text>&#9744; Show Advanced Mode</Text>
+              <Text>       Show Advanced Mode</Text>
               <Alignment>left</Alignment>
             </State>
             <State>
               <Number>1</Number>
-              <Text>&#9745; Show Advanced Mode</Text>
+              <Text>       Show Advanced Mode</Text>
               <Alignment>left</Alignment>
+              <Pressed scalemode="STRETCH_ASPECT">icon/ic_check_48px.svg</Pressed>
+              <Unpressed scalemode="STRETCH_ASPECT">icon/ic_check_48px.svg</Unpressed>
             </State>
             <Connection>
               <ConfigKey persist="true">[EffectRack1],show</ConfigKey>
