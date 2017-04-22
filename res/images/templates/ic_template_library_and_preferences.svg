@@ -50,15 +50,49 @@
        visible="true"
        enabled="true"
        snapvisiblegridlinesonly="true"
-       originx="4px"
-       spacingx="1px"
-       spacingy="1px"
+       originx="4"
+       spacingx="1"
+       spacingy="1"
        color="#00ffe0"
        opacity="0.1254902"
        empcolor="#0072ff"
        empopacity="0.25098039"
-       originy="4px"
+       originy="4"
        dotted="false" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid24360"
+       originx="2"
+       originy="2"
+       spacingx="28"
+       spacingy="28"
+       color="#f000ff"
+       opacity="1"
+       empcolor="#f000ff"
+       empopacity="1"
+       dotted="false" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid24859"
+       color="#f000ff"
+       opacity="1"
+       empcolor="#f000ff"
+       empopacity="1"
+       originx="6"
+       originy="2"
+       spacingx="20"
+       spacingy="28" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid24861"
+       color="#f000ff"
+       opacity="1"
+       empcolor="#f000ff"
+       empopacity="1"
+       originx="2"
+       originy="6"
+       spacingx="28"
+       spacingy="20" />
   </sodipodi:namedview>
   <title
      id="title5647">Mixxx 2.1+ iconset</title>
