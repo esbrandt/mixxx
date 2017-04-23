@@ -2699,13 +2699,13 @@ Grid based on suggestions from http://techbase.kde.org/Projects/Oxygen/Style</dc
     <g
        inkscape:groupmode="layer"
        id="layer35"
-       inkscape:label="vinyl.png"
+       inkscape:label="viny_control.png"
        style="display:none"
        sodipodi:insensitive="true">
       <g
          transform="translate(2,16)"
          style="display:inline"
-         id="ic_preferences_vinyl"
+         id="ic_preferences_vinyl_control"
          inkscape:label="#g8245-1">
         <circle
            style="fill:none;stroke:url(#linearGradient4260-4);stroke-width:4.5659399;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -2726,13 +2726,13 @@ Grid based on suggestions from http://techbase.kde.org/Projects/Oxygen/Style</dc
     <g
        inkscape:groupmode="layer"
        id="layer34"
-       inkscape:label="soundhardware.png"
+       inkscape:label="sound_hardware.png"
        style="display:none"
        sodipodi:insensitive="true">
       <g
          transform="translate(0,16)"
          style="display:inline"
-         id="ic_preferences_soundhardware"
+         id="ic_preferences_sound_hardware"
          inkscape:label="#g7602-2">
         <rect
            ry="1"
@@ -3009,6 +3009,43 @@ Grid based on suggestions from http://techbase.kde.org/Projects/Oxygen/Style</dc
     </g>
     <g
        inkscape:groupmode="layer"
+       id="layer28"
+       inkscape:label="live_broadcasting.png"
+       style="display:none"
+       sodipodi:insensitive="true">
+      <g
+         id="ic_preferences_live_broadcasting"
+         style="fill:#ff6600;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+         inkscape:label="#g6236">
+        <path
+           transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)"
+           sodipodi:open="true"
+           sodipodi:end="3.1415927"
+           sodipodi:start="0"
+           d="M 35.515269,-6.9122386 A 12.887301,12.887301 0 0 1 29.071618,4.2484919 12.887301,12.887301 0 0 1 16.184317,4.2484916 12.887301,12.887301 0 0 1 9.7406664,-6.9122392"
+           sodipodi:ry="12.887301"
+           sodipodi:rx="12.887301"
+           sodipodi:cy="-6.9122386"
+           sodipodi:cx="22.627968"
+           id="path6271-2"
+           style="display:inline;fill:url(#linearGradient7445);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012147;marker-start:none"
+           sodipodi:type="arc" />
+        <path
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccc"
+           id="path4368-8"
+           d="M 2.9997776,29.000998 27.000776,29 22,29 15.5,29 10,23 4.6418186,29 3.0107625,28.99 2.9998185,29 Z"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient7443);fill-opacity:1;fill-rule:nonzero;stroke:url(#linearGradient7453);stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate" />
+        <path
+           sodipodi:nodetypes="cc"
+           inkscape:connector-curvature="0"
+           id="path4153-2"
+           d="m 23,9.000001 6,-6"
+           style="display:inline;fill:#3c3c3c;fill-opacity:1;stroke:url(#linearGradient7455);stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+    </g>
+    <g
+       inkscape:groupmode="layer"
        id="layer31"
        inkscape:label="library.png"
        style="display:none"
@@ -3067,9 +3104,8 @@ Grid based on suggestions from http://techbase.kde.org/Projects/Oxygen/Style</dc
     <g
        inkscape:groupmode="layer"
        id="layer11"
-       inkscape:label="keydetect.png"
-       style="display:none"
-       sodipodi:insensitive="true">
+       inkscape:label="key_detection.png"
+       style="display:none">
       <path
          sodipodi:nodetypes="ccsccscccccccccccccccccscccccsccscccccccccsccsccccssccssccssccscccccccssscscscscccssccccscc"
          style="fill:url(#linearGradient3465);fill-opacity:1;fill-rule:evenodd;stroke:url(#linearGradient3438);stroke-width:0.53920877"
@@ -3144,7 +3180,7 @@ Grid based on suggestions from http://techbase.kde.org/Projects/Oxygen/Style</dc
     <g
        inkscape:groupmode="layer"
        id="layer23"
-       inkscape:label="equalizer.png"
+       inkscape:label="equalizers.png"
        style="display:none"
        sodipodi:insensitive="true">
       <g
@@ -3379,7 +3415,7 @@ Grid based on suggestions from http://techbase.kde.org/Projects/Oxygen/Style</dc
     <g
        inkscape:groupmode="layer"
        id="layer18"
-       inkscape:label="bpmdetect.png"
+       inkscape:label="beatdetect.png"
        style="display:none"
        sodipodi:insensitive="true">
       <g
