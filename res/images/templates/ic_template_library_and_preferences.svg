@@ -963,7 +963,8 @@
        y1="3.9744895"
        x2="6.9998631"
        y2="32.77449"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.83333334,5.000137,4.5877294)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4942"
@@ -972,7 +973,8 @@
        y1="277.50168"
        x2="-57.082829"
        y2="891.52771"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.02301235,0,0,0.03916019,13.31361,-2.9056053)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4942"
@@ -2526,28 +2528,26 @@ Grid based on suggestions from http://techbase.kde.org/Projects/Oxygen/Style</dc
        inkscape:groupmode="layer"
        id="layer4"
        inkscape:label="banshee.png"
-       style="display:none"
-       sodipodi:insensitive="true">
+       style="display:none">
       <path
          sodipodi:type="arc"
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:url(#linearGradient4123);stroke-width:66.68640137;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:url(#linearGradient4123);stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
          id="path2250"
-         sodipodi:cx="203.64676"
-         sodipodi:cy="533.34583"
-         sodipodi:rx="478.00418"
-         sodipodi:ry="281.4285"
-         d="M 245.30755,252.98825 A 478.00418,281.4285 0 0 1 659.52744,448.71863 478.00418,281.4285 0 0 1 510.90193,748.93256 478.00418,281.4285 0 0 1 -17.070999,782.97595 478.00418,281.4285 0 0 1 -272.53847,508.81772"
-         transform="matrix(0.02301235,0,0,0.03908629,13.31361,-2.8465111)"
+         sodipodi:cx="18"
+         sodipodi:cy="17.980322"
+         sodipodi:rx="10.999999"
+         sodipodi:ry="11.020795"
+         d="M 18.958713,7.0014644 A 10.999999,11.020795 0 0 1 28.490885,14.666305 10.999999,11.020795 0 0 1 25.070663,26.42274 10.999999,11.020795 0 0 1 12.920766,27.755886 10.999999,11.020795 0 0 1 7.0418593,17.019796"
          sodipodi:start="4.7996554"
          sodipodi:end="3.2288591"
          sodipodi:open="true" />
-      <circle
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:url(#linearGradient4121);stroke-width:4.38178015;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+      <ellipse
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:url(#linearGradient4121);stroke-width:3.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
          id="path4082"
-         transform="matrix(1,0,0,0.83333334,5.000137,4.6879255)"
-         cx="13"
-         cy="16"
-         r="6" />
+         cx="18.000137"
+         cy="17.921062"
+         rx="6"
+         ry="5" />
       <path
          style="fill:none;stroke:url(#linearGradient4119);stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="M 12,18 12,2 4,6"
