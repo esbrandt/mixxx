@@ -792,7 +792,8 @@
        y1="2"
        x2="16"
        y2="30"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(2.0007758,0)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient5695-6"
@@ -801,7 +802,8 @@
        y1="7.1440015"
        x2="10.114939"
        y2="12.146669"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(3.957686,0,0,3.957686,-6.0900782,-39.587972)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient5695-6"
@@ -810,7 +812,8 @@
        y1="2"
        x2="12"
        y2="30"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(2.0007758,0)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient5695-6"
@@ -819,7 +822,8 @@
        y1="2"
        x2="12"
        y2="30"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(2.0007758,0)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient5695-6"
@@ -2473,8 +2477,7 @@ Grid based on suggestions from http://techbase.kde.org/Projects/Oxygen/Style</dc
      inkscape:groupmode="layer"
      id="layer14"
      inkscape:label="ic_preferences_"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <g
        inkscape:groupmode="layer"
        id="layer16"
@@ -3206,15 +3209,15 @@ Grid based on suggestions from http://techbase.kde.org/Projects/Oxygen/Style</dc
          style="fill:#ff6600;fill-opacity:1;stroke:#000000;stroke-opacity:1"
          inkscape:label="#g6236">
         <path
-           transform="matrix(2.7985066,2.7985066,-2.7985066,2.7985066,21.685812,-32.299259)"
+           transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)"
            sodipodi:open="true"
            sodipodi:end="3.1415927"
            sodipodi:start="0"
-           d="m 10.512544,8.2562723 a 3.2562718,3.2562718 0 0 1 -1.6281363,2.8200137 3.2562718,3.2562718 0 0 1 -3.2562719,0 A 3.2562718,3.2562718 0 0 1 4,8.2562722"
-           sodipodi:ry="3.2562718"
-           sodipodi:rx="3.2562718"
-           sodipodi:cy="8.2562723"
-           sodipodi:cx="7.2562718"
+           d="M 35.515269,-6.9122386 A 12.887301,12.887301 0 0 1 29.071618,4.2484919 12.887301,12.887301 0 0 1 16.184317,4.2484916 12.887301,12.887301 0 0 1 9.7406664,-6.9122392"
+           sodipodi:ry="12.887301"
+           sodipodi:rx="12.887301"
+           sodipodi:cy="-6.9122386"
+           sodipodi:cx="22.627968"
            id="path6271-2"
            style="display:inline;fill:url(#linearGradient7445);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012147;marker-start:none"
            sodipodi:type="arc" />
@@ -3222,13 +3225,13 @@ Grid based on suggestions from http://techbase.kde.org/Projects/Oxygen/Style</dc
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="ccccccccc"
            id="path4368-8"
-           d="M 0.99900178,29.000998 25,29 20,28.990018 13.5,29 8,23 2.5,29 1.0099867,28.99 0.9990426,29.00097 Z"
+           d="M 2.9997776,29.000998 27.000776,29 22,29 15.5,29 10,23 4.6418186,29 3.0107625,28.99 2.9998185,29 Z"
            style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient7443);fill-opacity:1;fill-rule:nonzero;stroke:url(#linearGradient7453);stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate" />
         <path
            sodipodi:nodetypes="cc"
            inkscape:connector-curvature="0"
            id="path4153-2"
-           d="m 21,9.000001 6,-6"
+           d="m 23,9.000001 6,-6"
            style="display:inline;fill:#3c3c3c;fill-opacity:1;stroke:url(#linearGradient7455);stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       </g>
     </g>
