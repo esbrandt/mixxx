@@ -585,9 +585,9 @@
        xlink:href="#linearGradient4942"
        id="linearGradient5122"
        x1="12"
-       y1="8"
+       y1="2"
        x2="12"
-       y2="32"
+       y2="30"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
@@ -1323,9 +1323,9 @@
        xlink:href="#linearGradient4942"
        id="linearGradient4261"
        x1="18.454418"
-       y1="8.3183727"
+       y1="1.091164"
        x2="18.454418"
-       y2="32.409069"
+       y2="30"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
@@ -1834,10 +1834,10 @@ Grid based on suggestions from http://techbase.kde.org/Projects/Oxygen/Style</dc
            style="fill:#979797;fill-opacity:0.5">
           <path
              id="path4249"
-             transform="matrix(1.1666667,0,0,1.1666667,8.1148843,-27.333333)"
              d="m -26,32 c -3.376146,0 -5.8125,2.420091 -5.8125,5.75 -0.02885,0.04115 -0.0269,0.04484 0,0.0625 l 0,2.09375 C -31.95368,40.251454 -32,40.690868 -32,41.1875 c 0,1.08133 0.15281,1.96875 1.21875,1.96875 l 0,-3.9375 c -0.05826,0 -0.103077,0.02604 -0.15625,0.03125 l 0,-1.5 c 0,-0.35788 0.03255,-0.711959 0.09375,-1.03125 0.05746,-0.308575 0.173694,-0.595956 0.28125,-0.875 0.707406,-1.67368 2.381799,-2.625 4.5625,-2.625 2.180238,0 3.886417,0.95132 4.59375,2.625 0.235778,0.557893 0.34375,1.19049 0.34375,1.90625 l 0,1.46875 c -0.05502,-0.0057 -0.09568,0 -0.15625,0 l 0,3.90625 c 1.065786,0 1.21875,-0.856631 1.21875,-1.9375 0,-0.488809 -0.02108,-0.938349 -0.15625,-1.28125 l 0,-2.15625 C -20.15625,34.420091 -22.624315,32 -26,32 Z"
              style="fill:#979797;fill-opacity:0.5;fill-rule:nonzero;stroke:none"
-             inkscape:connector-curvature="0" />
+             inkscape:connector-curvature="0"
+             transform="matrix(1.1666667,0,0,1.1666667,8.1148843,-27.333333)" />
           <rect
              ry="0.2"
              rx="1"
@@ -1924,13 +1924,13 @@ Grid based on suggestions from http://techbase.kde.org/Projects/Oxygen/Style</dc
            sodipodi:nodetypes="csssc"
            inkscape:connector-curvature="0"
            id="path8889-9"
-           d="m 9.5,16.147849 c 0,0 0.012953,-5.299848 0,-6.8898022 C 9.487043,7.667617 9.9612148,2.9397423 16,2.8982299 c 6,-0.041246 6.495685,4.7695456 6.5,7.4197851 0.0026,1.589955 0,5.829834 0,5.829834"
+           d="m 9.5,15.545582 c 0,0 0.012953,-4.697581 0,-6.2875352 C 9.487043,7.667617 9.9612148,2.9397423 16,2.8982299 c 6,-0.041246 6.495685,4.7695456 6.5,7.4197851 0.0026,1.589955 0,5.227567 0,5.227567"
            style="fill:none;stroke:url(#linearGradient4259);stroke-width:3.61360478;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
         <path
-           sodipodi:nodetypes="ssssssssscssscaccssscac"
+           sodipodi:nodetypes="ssssssssscccccccccc"
            inkscape:connector-curvature="0"
            id="rect8885-1"
-           d="M 6.0075581,16 C 5.003779,16 4,17 4,18 l 0,10 c 0,1 1.003779,2 2.0075581,2 l 20.0755809,0 c 1.003779,0 2.007558,-1 2.007558,-2 l 0,-10 c 0,-1 -1.003779,-2 -2.007558,-2 z m 3.2826138,4.568256 14.0215391,0 c 0.5241,0 1.000957,0.476401 1.000957,1 0,0.523599 -0.476857,1 -1.000957,1 l -14.0215391,0 c -0.5436301,0 -1.0351471,-0.52024 -1.0351471,-1 0,-0.47976 0.4854817,-1 1.0351471,-1 z m -0.2399087,4.81814 14.0215388,0 c 0.5241,0 1.000957,0.476401 1.000957,1 0,0.523599 -0.476857,1 -1.000957,1 l -14.0215388,0 c -0.5533949,0 -1.0351471,-0.52024 -1.0351471,-1 0,-0.479761 0.4490535,-1 1.0351471,-1 z"
+           d="M 6.4090697,15.545582 C 5.2733955,15.545582 4,16.819096 4,17.95477 l 0,9.63616 C 4,28.71471 5.2734233,30 6.4090697,30 l 19.2725573,0 c 1.135646,0 2.40907,-1.273423 2.40907,-2.40907 l 0,-9.636396 c 0,-1.135619 -1.273451,-2.408952 -2.40907,-2.408952 z m 2.4090696,4.818139 14.4544177,0 0,2.40907 -14.4544177,0 z m 0,4.81814 14.4544177,0 0,2.409069 -14.4544177,0 z"
            style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4261);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate" />
       </g>
       <g
@@ -1940,16 +1940,16 @@ Grid based on suggestions from http://techbase.kde.org/Projects/Oxygen/Style</dc
          style="display:inline">
         <path
            style="fill:none;stroke:#979797;stroke-width:3.61360455;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.50196078"
-           d="m 9.5,10.580075 c 0,0 0.012953,-0.181861 0,-1.6818599 C 9.487043,7.3977664 9.9612148,2.9373786 16,2.8982149 c 6,-0.038912 6.495685,4.499701 6.5,6.999999 0.0026,1.5000001 0,6.1291821 0,6.1291821"
+           d="m 9.5,10.580075 0,-1.6818599 c 0,-1.5005046 0.4612148,-5.9608365 6.5,-6.0000002 6,-0.038912 6.495685,4.499701 6.5,6.999999 0.0026,1.5000001 0,5.6473681 0,5.6473681"
            id="path4298"
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="csssc" />
         <path
            style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#979797;fill-opacity:0.50196288;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
-           d="M 6.0075581,16 C 5.003779,16 4,17 4,18 l 0,10 c 0,1 1.003779,2 2.0075581,2 l 20.0755809,0 c 1.003779,0 2.007558,-1 2.007558,-2 l 0,-10 c 0,-1 -1.003779,-2 -2.007558,-2 z m 3.0427051,4.568256 14.0215388,0 c 0.5241,0 1.000957,0.476401 1.000957,1 0,0.523599 -0.476857,1 -1.000957,1 l -14.0215388,0 c -0.5436301,0 -1.0351471,-0.52024 -1.0351471,-1 0,-0.47976 0.4854817,-1 1.0351471,-1 z m 0,4.81814 14.0215388,0 c 0.5241,0 1.000957,0.476401 1.000957,1 0,0.523599 -0.476857,1 -1.000957,1 l -14.0215388,0 c -0.5533949,0 -1.0351471,-0.52024 -1.0351471,-1 0,-0.479761 0.4490535,-1 1.0351471,-1 z"
+           d="M 6.4090697,15.545582 C 5.2734262,15.542996 4,16.819006 4,17.954652 L 4,27.59093 C 4,28.726576 5.2734233,30 6.4090697,30 l 19.2725573,0 c 1.135646,0 2.40907,-1.273424 2.40907,-2.40907 l 0,-9.636278 c 0,-1.113608 -1.245963,-2.362533 -2.359568,-2.365069 z m 2.4090696,4.818139 14.4544177,0 0,2.40907 -14.4544177,0 z m 0,4.81814 14.4544177,0 0,2.409069 -14.4544177,0 z"
            id="path4300"
            inkscape:connector-curvature="0"
-           sodipodi:nodetypes="ssssssssscssscaccssscac" />
+           sodipodi:nodetypes="ssssssssscccccccccc" />
       </g>
     </g>
     <rect
@@ -2182,10 +2182,10 @@ Grid based on suggestions from http://techbase.kde.org/Projects/Oxygen/Style</dc
            d="m 9.5,16 c 0,0 0.012953,-5 0,-6.5 -0.012957,-1.5004487 0.4612148,-5.9608363 6.5,-6 6,-0.038912 6.495685,4.4997009 6.5,7 0.0026,1.5 0,5.5 0,5.5"
            style="fill:none;stroke:url(#linearGradient5114);stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
         <path
-           sodipodi:nodetypes="ssssssssscssscaccssscaccssscac"
+           sodipodi:nodetypes="sssssssssccccccccccccccc"
            inkscape:connector-curvature="0"
            id="rect8885"
-           d="m 6,16 c -1,0 -2,1 -2,2 l 0,10 c 0,1 1,2 2,2 l 20,0 c 1,0 2,-1 2,-2 l 0,-10 c 0,-1 -1,-2 -2,-2 z M 9.03125,18 23,18 c 0.522127,0 0.997189,0.476401 0.997189,1 0,0.523599 -0.475062,1 -0.997189,1 L 9.03125,20 C 8.4410263,20 8,19.478827 8,19 8,18.521173 8.4261918,18 9.03125,18 Z m 0,4 L 23,22 c 0.522127,0 0.997189,0.476401 0.997189,1 0,0.523599 -0.475062,1 -0.997189,1 L 9.03125,24 C 8.4896665,24 8,23.478827 8,23 8,22.521173 8.4836539,22 9.03125,22 Z m 0,4 L 23,26 c 0.522127,0 0.997189,0.476401 0.997189,1 0,0.523599 -0.475062,1 -0.997189,1 L 9.03125,28 C 8.4799385,28 8,27.478827 8,27 8,26.521173 8.4473629,26 9.03125,26 Z"
+           d="m 6,14 c -1,0 -2,1 -2,2 l 0,12 c 0,1 1,2 2,2 l 20,0 c 1,0 2,-1 2,-2 l 0,-12 c 0,-1 -1,-2 -2,-2 z m 2,4 16,0 0,2 -16,0 z m 0,4 16,0 0,2 -16,0 z m 0,4 16,0 0,2 -16,0 z"
            style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient5122);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate" />
       </g>
       <g
