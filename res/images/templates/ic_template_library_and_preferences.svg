@@ -28,15 +28,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1152"
+     inkscape:window-width="1916"
+     inkscape:window-height="1155"
      id="namedview26"
      showgrid="true"
      inkscape:zoom="30.239878"
      inkscape:cx="14.729297"
      inkscape:cy="16.540281"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-x="4"
+     inkscape:window-y="1"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2"
      inkscape:object-paths="true"
@@ -3098,8 +3098,9 @@ Grid based on suggestions from http://techbase.kde.org/Projects/Oxygen/Style</dc
         <path
            inkscape:connector-curvature="0"
            id="rect4753-7"
-           d="M 1.15625,2 C 0.5099166,2 0,2.5099166 0,3.15625 L 0,10 6,10 6,7 C 6,6.446 6.446,6 7,6 l 2,0 c 0.554,0 1,0.446 1,1 l 0,18 c 0,0.554 -0.446,1 -1,1 L 7,26 C 6.446,26 6,25.554 6,25 l 0,-3 -6,0 0,6.84375 C 0,29.490083 0.5099166,30 1.15625,30 l 17.6875,0 C 19.490083,30 20,29.490083 20,28.84375 L 20,3.15625 C 20,2.5099166 19.490083,2 18.84375,2 L 1.15625,2 Z"
-           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient6576);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate" />
+           d="M 3.15625,2 C 2.5099166,2 2.1812997,2.5358652 2,3.15625 L 2,10 8,10 8,7 C 8,6.446 9,6 9,6 l 2,0 c 0,0 1,0.446 1,1 l 0,18 c 0,0.554 -0.446,1 -1,1 L 9,26 C 8.446,26 8.3073039,25.460956 8,25 l 0,-3 -6,0 0,6.84375 C 2,29.490083 2.5099166,30 3.15625,30 l 15.6875,0 C 19.490083,30 20,29.490083 20,28.84375 L 20,3.15625 C 20,2.5099166 19.490083,2 18.84375,2 Z"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient6576);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+           sodipodi:nodetypes="ssccssssssssccsssssss" />
         <rect
            y="10"
            x="20"
