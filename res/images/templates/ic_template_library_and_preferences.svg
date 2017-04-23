@@ -136,7 +136,8 @@
        y1="-0.99999899"
        x2="13"
        y2="29.000002"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.83333337,0,0,0.83333337,4.5,5.8333313)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient5695-6"
@@ -3241,17 +3242,16 @@ Grid based on suggestions from http://techbase.kde.org/Projects/Oxygen/Style</dc
          id="ic_preferences_bpmdetect"
          inkscape:label="#g5794">
         <path
-           transform="translate(2.9999999,0.999999)"
-           d="M 8.9999997,29 3.0000001,25.12132 -2.9999997,29 0.87867975,23 -2.9999997,17 2.9999999,20.87868 8.9999997,17 5.1213202,23 Z"
+           d="m 12,29.999998 -5,-3.232233 -5,3.232233 3.232233,-5 -3.232233,-5 5,3.232233 5,-3.232233 -3.232233,5 z"
            inkscape:randomized="0"
            inkscape:rounded="0"
            inkscape:flatsided="false"
            sodipodi:arg2="1.5707963"
            sodipodi:arg1="0.78539816"
-           sodipodi:r2="2.1213202"
-           sodipodi:r1="8.485281"
-           sodipodi:cy="23"
-           sodipodi:cx="3"
+           sodipodi:r2="1.767767"
+           sodipodi:r1="7.0710678"
+           sodipodi:cy="24.999998"
+           sodipodi:cx="7"
            sodipodi:sides="4"
            id="path4430-8"
            style="display:inline;fill:url(#linearGradient4384-7);fill-opacity:1;stroke:none"
@@ -3260,7 +3260,7 @@ Grid based on suggestions from http://techbase.kde.org/Projects/Oxygen/Style</dc
            sodipodi:nodetypes="cccccccccc"
            inkscape:connector-curvature="0"
            id="path4365-1"
-           d="M 4,-8.0054327e-8 -4.0054322e-8,4 26,30 30,26 Z M 5,3 11,9 9,11 3,5 Z"
+           d="M 6,1.9999999 2,6 26,30 30,26 Z M 7,5 13,11 11,13 5,7 Z"
            style="display:inline;fill:url(#linearGradient4386-1);fill-opacity:1;stroke:none" />
       </g>
     </g>
