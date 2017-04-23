@@ -3377,49 +3377,12 @@ Grid based on suggestions from http://techbase.kde.org/Projects/Oxygen/Style</dc
     </g>
     <g
        inkscape:groupmode="layer"
-       id="layer28"
-       inkscape:label="broadcast.png"
-       style="display:none"
-       sodipodi:insensitive="true">
-      <g
-         id="ic_preferences_broadcast"
-         style="fill:#ff6600;fill-opacity:1;stroke:#000000;stroke-opacity:1"
-         inkscape:label="#g6236">
-        <path
-           transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)"
-           sodipodi:open="true"
-           sodipodi:end="3.1415927"
-           sodipodi:start="0"
-           d="M 35.515269,-6.9122386 A 12.887301,12.887301 0 0 1 29.071618,4.2484919 12.887301,12.887301 0 0 1 16.184317,4.2484916 12.887301,12.887301 0 0 1 9.7406664,-6.9122392"
-           sodipodi:ry="12.887301"
-           sodipodi:rx="12.887301"
-           sodipodi:cy="-6.9122386"
-           sodipodi:cx="22.627968"
-           id="path6271-2"
-           style="display:inline;fill:url(#linearGradient7445);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00012147;marker-start:none"
-           sodipodi:type="arc" />
-        <path
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="ccccccccc"
-           id="path4368-8"
-           d="M 2.9997776,29.000998 27.000776,29 22,29 15.5,29 10,23 4.6418186,29 3.0107625,28.99 2.9998185,29 Z"
-           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient7443);fill-opacity:1;fill-rule:nonzero;stroke:url(#linearGradient7453);stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate" />
-        <path
-           sodipodi:nodetypes="cc"
-           inkscape:connector-curvature="0"
-           id="path4153-2"
-           d="m 23,9.000001 6,-6"
-           style="display:inline;fill:#3c3c3c;fill-opacity:1;stroke:url(#linearGradient7455);stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      </g>
-    </g>
-    <g
-       inkscape:groupmode="layer"
        id="layer18"
-       inkscape:label="beatdetect.png"
+       inkscape:label="beat_detection.png"
        style="display:none"
        sodipodi:insensitive="true">
       <g
-         id="ic_preferences_bpmdetect"
+         id="ic_preferences_beat_detection"
          inkscape:label="#g5794">
         <path
            d="m 12,29.999998 -5,-3.232233 -5,3.232233 3.232233,-5 -3.232233,-5 5,3.232233 5,-3.232233 -3.232233,5 z"
