@@ -1114,30 +1114,30 @@
        id="linearGradient4470"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0,-0.24166667,0.91334616,0,5.8864611,22.866666)"
-       x1="69.793098"
-       y1="2.3140604"
-       x2="-29.517244"
-       y2="2.3140612" />
+       x1="103.01482"
+       y1="10.060244"
+       x2="-13.059372"
+       y2="10.060244" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4942"
        id="linearGradient4472"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.24166667,0,0,0.91334616,19.133334,1.886461)"
-       x1="-46.06897"
-       y1="4.5038118"
-       x2="-46.068966"
-       y2="30.780815" />
+       x1="-16.793329"
+       y1="-4.2864819"
+       x2="-16.793329"
+       y2="26.426147" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4942"
        id="linearGradient4474"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0,-0.24166667,0.84308876,0,-7.1817283,22.866666)"
-       x1="69.793098"
-       y1="18.007271"
-       x2="-29.517244"
-       y2="18.007271" />
+       x1="103.01482"
+       y1="26.39897"
+       x2="-13.059372"
+       y2="26.39897" />
     <linearGradient
        y2="28.998877"
        x2="13.000001"
@@ -2383,25 +2383,25 @@ Grid based on suggestions from http://techbase.kde.org/Projects/Oxygen/Style</dc
       <g
          id="ic_library_history_current.png"
          inkscape:label="#g4465"
-         transform="translate(0,4)">
+         transform="matrix(1.081019,0,0,0.99817258,-0.29630325,4.0248735)">
         <path
            sodipodi:nodetypes="cc"
-           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:url(#linearGradient4470);stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-           d="M 28,14 18,2"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:url(#linearGradient4470);stroke-width:3.85070729;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+           d="M 26.175584,11.99705 16.925052,-0.02491904"
            id="path4425"
            inkscape:connector-curvature="0" />
         <path
            sodipodi:nodetypes="cc"
            inkscape:connector-curvature="0"
            id="path4427"
-           d="M 18,26 28,14"
-           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:url(#linearGradient4472);stroke-width:3.99999976;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+           d="M 16.925052,24.019019 26.175584,11.99705"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:url(#linearGradient4472);stroke-width:3.85070729;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
         <path
            sodipodi:nodetypes="cc"
            inkscape:connector-curvature="0"
            id="path4461"
-           d="M 28,14 4,14"
-           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:url(#linearGradient4474);stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+           d="m 24.325477,11.99705 -20.3511683,0"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:url(#linearGradient4474);stroke-width:3.85070729;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
       </g>
     </g>
     <g
