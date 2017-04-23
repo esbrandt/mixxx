@@ -3192,11 +3192,10 @@ Grid based on suggestions from http://techbase.kde.org/Projects/Oxygen/Style</dc
       <path
          style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient10313);fill-opacity:1;stroke:none;stroke-width:1.99999988;marker:none;enable-background:accumulate"
          mask="none"
-         d="M 1.96875,2 C 0.879975,2 0,2.788482 0,3.78125 l 0,24.4375 C 0,29.211518 0.879975,29.999479 1.96875,30 l 5.15625,0 14.25,0 4.65625,0 C 27.120024,30 28,29.211518 28,28.21875 L 28,3.78125 C 28,2.788482 27.120024,2 26.03125,2 Z M 6,4 22,4 22,8 6,8 Z m -4,4 2,0 0,4 -2,0 z m 12,2 c 4.406434,0 8,3.593566 8,8 0,4.406434 -3.593566,8 -8,8 -4.406433,0 -8,-3.593566 -8,-8 0,-4.406434 3.593567,-8 8,-8 z m 10,-2 2,0 0,4 -2,0 z m -10,6 c -2.209139,0 -4,1.790861 -4,4 0,2.209139 1.790861,4 4,4 2.209139,0 4,-1.790861 4,-4 0,-2.209139 -1.790861,-4 -4,-4 z m 10,2 2,0 0,10 -2,0 z m -22,6 2,0 0,4 -2,0 z"
+         d="M 3.96875,2 C 2.879975,2 2,2.788482 2,3.78125 l 0,24.4375 C 2,29.211518 2.879975,29.999479 3.96875,30 l 5.15625,0 14.25,0 4.65625,0 C 29.120024,30 30,29.211518 30,28.21875 L 30,3.78125 C 30,2.788482 29.120024,2 28.03125,2 Z M 8,4 24,4 24,8 8,8 Z m -4,4 2,0 0,4 -2,0 z m 22,0 2,0 0,4 -2,0 z m -10,2 c 4.406434,0 8,3.593566 8,8 0,4.406434 -3.593566,8 -8,8 -4.406433,0 -8,-3.593566 -8,-8 0,-4.406434 3.593567,-8 8,-8 z m 0,2 c -3.313708,0 -6,2.686292 -6,6 0,3.313708 2.686292,6 6,6 3.313708,0 6,-2.686292 6,-6 0,-3.313708 -2.686292,-6 -6,-6 z m 10,4 2,0 0,10 -2,0 z m -22,6 2,0 0,4 -2,0 z"
          id="ic_preferences_controllers"
          inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ssscccsssssccccccccccssssscccccssssscccccccccc"
-         inkscape:label="#path6706-3" />
+         sodipodi:nodetypes="ssscccssssscccccccccccccccsssssssssscccccccccc" />
     </g>
     <g
        inkscape:groupmode="layer"
