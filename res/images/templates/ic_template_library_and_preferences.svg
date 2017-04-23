@@ -1506,7 +1506,7 @@
        x2="13"
        y2="30"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(1.9073486e-6,0)" />
+       gradientTransform="translate(1.9073486e-6,0.18481662)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient5695-6"
@@ -1516,7 +1516,7 @@
        x2="13"
        y2="30"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-0.07545662,0)" />
+       gradientTransform="translate(-0.07545662,-9.1493845e-8)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient5695-6"
@@ -1526,7 +1526,7 @@
        x2="13"
        y2="30"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(0.29986148,0)" />
+       gradientTransform="translate(0.29986148,-3.2850039e-8)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient5695-6"
@@ -1536,7 +1536,7 @@
        x2="13"
        y2="30"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-0.43040085,0)" />
+       gradientTransform="translate(-0.43040085,-6.2155181e-8)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient5695-6"
@@ -2798,7 +2798,8 @@ Grid based on suggestions from http://techbase.kde.org/Projects/Oxygen/Style</dc
        inkscape:groupmode="layer"
        id="layer6"
        inkscape:label="normalization.png"
-       style="display:none">
+       style="display:none"
+       sodipodi:insensitive="true">
       <g
          id="g11920"
          ic_preferences_normalization="">
@@ -2840,12 +2841,12 @@ Grid based on suggestions from http://techbase.kde.org/Projects/Oxygen/Style</dc
            id="circle11914" />
         <path
            sodipodi:open="true"
-           d="M 22.345258,3.1770918 A 16.5,16.5 0 0 1 28.458959,15.712035 16.5,16.5 0 0 1 22.786446,28.452708"
+           d="M 22.345258,3.3619081 A 16.5,16.5 0 0 1 28.458959,15.896852 16.5,16.5 0 0 1 22.786446,28.637524"
            sodipodi:end="0.85521133"
            sodipodi:start="5.3930674"
            sodipodi:ry="16.5"
            sodipodi:rx="16.5"
-           sodipodi:cy="16"
+           sodipodi:cy="16.184816"
            sodipodi:cx="11.961472"
            sodipodi:type="arc"
            id="circle11916"
@@ -3109,7 +3110,8 @@ Grid based on suggestions from http://techbase.kde.org/Projects/Oxygen/Style</dc
        inkscape:groupmode="layer"
        id="layer11"
        inkscape:label="key_detection.png"
-       style="display:none">
+       style="display:none"
+       sodipodi:insensitive="true">
       <path
          sodipodi:nodetypes="ccsccscccccccccccccccccscccccsccscccccccccsccsccccssccssccssccscccccccssscscscscccssccccscc"
          style="fill:url(#linearGradient3465);fill-opacity:1;fill-rule:evenodd;stroke:url(#linearGradient3438);stroke-width:0.53920877"
